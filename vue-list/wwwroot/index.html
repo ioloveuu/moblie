@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" name="viewport">
+	<title>test</title>
+	<style>
+		*{margin:0;padding: 0;}
+	</style>
+</head>
+<body>
+	<div id="app">
+		<h2>表单验证组件</h2>
+		<br>
+		<component :is="views" rules="min:2;max:5;digital" ></component>
+		<br>	
+		<component :is="views" rules="min:5;max:10" ></component>
+		<br>
+		<h2>省市县三级联动组件</h2>
+		<br>
+		<my-select></my-select>
+		<br>	
+		<my-select></my-select>
+		<br>
+		<h2>可搜索的select组件</h2>
+		<br>
+		<select-search :mock-data="mockData" ></select-search>
+		<component is="select-search" :mock-data="mockData" ></component>
+		<!-- <button v-on:click="showData">showData</button> -->
+		<br>
+	</div>
+	
+	<script src="build/build.js"></script>
+</body>
+</html>
