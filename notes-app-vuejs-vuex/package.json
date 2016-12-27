@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coligo-io/notes-app-vuejs-vuex.git"
+    "url": "https://github.com/ioloveuu/vuedemo.git"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
