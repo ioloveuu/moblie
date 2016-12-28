@@ -15,7 +15,7 @@
                 <h1>todos</h1>
                 <input 
                     class="new-todo" 
-                    placeholder="请输入内容" 
+                    placeholder="请输入内容啊" 
                     @keyup.enter="addItem"
                 >
             </header>
@@ -44,7 +44,7 @@
             <footer class="footer" v-show="list.length">
 	            <span class="todo-count">
 	            	<strong>{{noSelectedLength}}</strong>
-	            	<span>条未选中</span>
+	            	<span>条未选中呢</span>
 	            </span>
                 <ul class="filters">
                     <li><a href="#all" :class="{selected:selectHash == 'all'}">All</a></li>
