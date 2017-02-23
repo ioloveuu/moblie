@@ -201,7 +201,7 @@ function noop () {}
 var no = function () { return false; }
 
 /**
- * Generate a static keys string from compiler modules.
+ * Generate a static keys string from compiler modules...
  */
 function genStaticKeys (modules) {
   return modules.reduce(function (keys, m) {
