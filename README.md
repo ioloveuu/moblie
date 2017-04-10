@@ -8,4 +8,9 @@
 ### 今天封装
 ###马上完工，要用VUE重写APP
 
+1. 选项卡的实现： @click/:class
+##http://www.cnblogs.com/axl234/p/5899137.html vue-resource 用来请求接口，动态生成数据
+##              vue-cli 生成模板
+##              vue-router 局部刷新跳转
+
 
