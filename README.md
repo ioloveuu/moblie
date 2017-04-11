@@ -18,3 +18,5 @@
 ## +  https://github.com/vuejs/vue-cli            vue-cli 生成模板
 ## +               vue-router 局部刷新跳转
 ## + 模板引擎 http://www.cnblogs.com/52fhy/p/5393673.html
+
+### 提升自己才能立于不败之地
