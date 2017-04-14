@@ -22,7 +22,7 @@
 
 ### 提升自己才能立于不败之地!!!
 ### 记住耻辱~~~
-### css js  ssss
+### css js  fku
 ### http://www.tuicool.com/articles/eY7NZn REM换算
 ### https://www.zhihu.com/question/30950379 css3 伪类选择器的作用
 ### https://drafts.csswg.org/selectors-4/#subject css-api-w3c-英文版
