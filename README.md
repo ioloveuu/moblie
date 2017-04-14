@@ -16,7 +16,7 @@
       http://ask.dcloud.net.cn/question/12686
   vue-resource 用来请求接口，动态生成数据
 ## +  https://github.com/vuejs/vue-cli            vue-cli 生成模板
-## +               vue-router 局部刷新跳转
+## +    ss ss ss vue-router 局部刷新跳转
 ## + 模板引擎 http://www.cnblogs.com/52fhy/p/5393673.html
 ## vue 组件 keep alive http://www.jianshu.com/p/42429f4d8f9e?nomobile=yes
 
