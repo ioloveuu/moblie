@@ -1,7 +1,7 @@
 # vue demo
 
 ##my test
-我要学习vue，stylus,gulp，加油
+我要学习vue，stylus,gulp,webpack，加油
 
 ###vue2.0
 
