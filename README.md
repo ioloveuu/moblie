@@ -32,3 +32,4 @@
 ### http://www.jianshu.com/p/ccb02aea218a JS form提交
 ### http://bonsaiden.github.io/JavaScript-Garden/zh/ JS秘密花园
 ### https://www.zhihu.com/question/19736007 CSS兼容
+### http://www.cnblogs.com/0351jiazhuang/p/4525354.html?utm_source=tuicool&utm_medium=referral 浏览器兼容
