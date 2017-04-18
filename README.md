@@ -19,8 +19,9 @@
 ## +    ss ss ss vue-router 局部刷新跳转
 ## + 模板引擎 http://www.cnblogs.com/52fhy/p/5393673.html
 ## vue 组件 keep alive http://www.jianshu.com/p/42429f4d8f9e?nomobile=yes
-### 提升自己才能立于不败之地!!!
+### 提升自己才能立于不败之地!!
 ### 记住耻辱~~
+### css js 
 ### http://www.tuicool.com/articles/eY7NZn REM换算
 ### https://www.zhihu.com/question/30950379 css3 伪类选择器的作用
 ### https://drafts.csswg.org/selectors-4/#subject css-api-w3c-英文版
