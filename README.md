@@ -45,5 +45,6 @@
 ### http://www.cnblogs.com/chris-oil/p/5387129.html 代码注释规范
 ### http://www.jb51.net/article/109444.htm axios
 ### http://www.cnblogs.com/web-Rain/p/6509037.html axios2
+### http://www.jb51.net/article/109534.htm axios强烈推荐
 ### https://github.com/Stevenzwzhai/vue-mobile-application axios项目1
 ### https://github.com/Stevenzwzhai/vue2.0-elementUI-axios-vueRouter axios项目2
