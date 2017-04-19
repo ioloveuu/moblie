@@ -41,3 +41,4 @@
 ### http://www.yangyong.me/css2-bfc%E6%A8%A1%E5%9E%8B%E5%92%8Cifc%E6%A8%A1%E5%9E%8B/ BFC和IFC模型
 ### https://my.oschina.net/chaoo/blog/846550 综合项目
 ### http://www.oecom.cn/mobile-end-sliding-effect-based-on-swiper/ swip for phone
+### http://blog.csdn.net/u013182762/article/details/53027883 综合项目2
