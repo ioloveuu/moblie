@@ -40,6 +40,7 @@
 ### http://www.jianshu.com/p/d3883c4494ac stylus项目2
 ### http://www.yangyong.me/css2-bfc%E6%A8%A1%E5%9E%8B%E5%92%8Cifc%E6%A8%A1%E5%9E%8B/ BFC和IFC模型
 ### https://my.oschina.net/chaoo/blog/846550 综合项目
+### https://hzzly.github.io/2017/03/08/%E8%BF%9B%E9%98%B6vue%E5%85%A8%E5%AE%B6%E6%A1%B6/ vue-cli项目
 ### http://www.oecom.cn/mobile-end-sliding-effect-based-on-swiper/ swip for phone
 ### http://blog.csdn.net/u013182762/article/details/53027883 综合项目2
 ### http://www.cnblogs.com/chris-oil/p/5387129.html 代码注释规范
