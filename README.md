@@ -42,3 +42,4 @@
 ### https://my.oschina.net/chaoo/blog/846550 综合项目
 ### http://www.oecom.cn/mobile-end-sliding-effect-based-on-swiper/ swip for phone
 ### http://blog.csdn.net/u013182762/article/details/53027883 综合项目2
+### http://www.cnblogs.com/chris-oil/p/5387129.html 代码注释规范
