@@ -35,6 +35,8 @@
 ### http://www.cnblogs.com/0351jiazhuang/p/4525354.html?utm_source=tuicool&utm_medium=referral 浏览器兼容
 ### http://www.oschina.net/question/12_44255?sort=default&p=4 sass,less,stlyus
 ### http://www.cnblogs.com/xiaohuochai/p/5248536.html  && http://web.jobbole.com/84808/        BFC
+### https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html flex
+### https://www.w3cplus.com/css3/flexbox-layout-and-calculation.html flex深入理解
 ### http://www.zhangxinxu.com/jq/stylus/ stylus api
 ### http://www.jianshu.com/p/791042bf3ad2 && https://segmentfault.com/a/1190000002712872 stylus
 ### http://www.jianshu.com/p/d3883c4494ac stylus项目2
