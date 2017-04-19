@@ -49,6 +49,7 @@
 ### http://www.cnblogs.com/chris-oil/p/5387129.html 代码注释规范
 ### http://www.jb51.net/article/109444.htm axios
 ### http://xplsv.com/prods/demos/xplsv_orsotheysay/ cannavs demo
+### http://www.cnblogs.com/shawn-xie/archive/2012/08/16/2642553.html H5 three.js
 ### http://www.cnblogs.com/web-Rain/p/6509037.html axios2
 ### http://www.jb51.net/article/109534.htm axios强烈推荐
 ### https://github.com/Stevenzwzhai/vue-mobile-application axios项目1
