@@ -20,7 +20,7 @@
 ## vue 组件 keep alive http://www.jianshu.com/p/42429f4d8f9e?nomobile=yes
 ### 提升自己才能立于不败之地!!!
 ### 记住耻辱~~~
-### 周四下午！今晚准备PPT！
+### 周四下午！今晚准备PPT！！
 ### 明天下午！ 
 ### css js 
 ### http://www.w3cplus.com/javascript/12-extremely-useful-hacks-for-javascript.html?f=tt 12个JS技巧
