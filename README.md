@@ -21,6 +21,7 @@
 ### 提升自己才能立于不败之地!!!
 ### 记住耻辱~~~
 ### 周四下午
+### 铭泰下u 
 ### css js 
 ### http://www.w3cplus.com/javascript/12-extremely-useful-hacks-for-javascript.html?f=tt 12个JS技巧
 ### http://www.jianshu.com/p/1a8ab33c2649 webapck比较好的教程
