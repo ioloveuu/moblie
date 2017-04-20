@@ -42,6 +42,7 @@
 ### http://www.jianshu.com/p/791042bf3ad2 && https://segmentfault.com/a/1190000002712872 stylus
 ### http://www.jianshu.com/p/d3883c4494ac stylus项目2
 ### http://www.yangyong.me/css2-bfc%E6%A8%A1%E5%9E%8B%E5%92%8Cifc%E6%A8%A1%E5%9E%8B/ BFC和IFC模型
+### http://gcdn.gcpowertools.com.cn/showtopic-36950-1-3.html?utm_source=segmentfault&utm_medium=referral&utm_campaign=20170419&utm_content=36950 js常用代码
 ### https://my.oschina.net/chaoo/blog/846550 综合项目
 ### https://hzzly.github.io/2017/03/08/%E8%BF%9B%E9%98%B6vue%E5%85%A8%E5%AE%B6%E6%A1%B6/ vue-cli项目
 ### http://www.oecom.cn/mobile-end-sliding-effect-based-on-swiper/ swip for phone
