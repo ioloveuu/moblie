@@ -20,6 +20,7 @@
 ## vue 组件 keep alive http://www.jianshu.com/p/42429f4d8f9e?nomobile=yes
 ### 提升自己才能立于不败之地!!
 ### 记住耻辱~~~
+### 一天都不给，fk
 ### 一个星期以后 wtf
 ### 今天下午！ 
 ### css js 
