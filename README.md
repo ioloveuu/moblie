@@ -23,6 +23,7 @@
 ### 一个星期以后
 ### 明天下午！ 
 ### css js 
+### https://segmentfault.com/a/1190000004528137 console命令大全
 ### http://www.w3cplus.com/javascript/12-extremely-useful-hacks-for-javascript.html?f=tt 12个JS技巧
 ### http://www.jianshu.com/p/1a8ab33c2649 webapck比较好的教程
 ### http://www.tuicool.com/articles/eY7NZn REM换算
