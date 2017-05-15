@@ -1,6 +1,6 @@
 # vue demo
 
-##my test123
+##my t
 我要学习vue，stylus,gulp,webpac
 
 ###vue2.0
