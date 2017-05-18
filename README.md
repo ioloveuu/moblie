@@ -1,8 +1,7 @@
 # vue demo
 
 ##my t
-我要学习vue，stylus,gulp,webpac
-12344
+
 ###vue2.0
 
 ###要用VUE重写APP
