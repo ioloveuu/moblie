@@ -1,7 +1,5 @@
 # vue demo
 
-##my t
-
 ###vue2.0
 
 ###要用VUE重写APP
