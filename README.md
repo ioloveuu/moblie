@@ -1,5 +1,5 @@
 # vue demo
-
+12345
 ###vue2.0
 
 ###要用VUE重写APP12
