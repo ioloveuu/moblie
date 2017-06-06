@@ -1,6 +1,6 @@
 # vue demo
 ###vue2.0
-
+124567
 ###要用VUE重写APP12
 
 1. 选项卡的实现： @click/:class
