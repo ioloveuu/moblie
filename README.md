@@ -1,7 +1,7 @@
 # vue demo
 ###vue2.0
 384dd
-###要用VUE重写APP12
+###要用VUE重写APP
 
 1. 选项卡的实现： @click/:class
 2. 业务和逻辑实现要分开
