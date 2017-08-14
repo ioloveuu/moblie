@@ -1,6 +1,6 @@
 # vue demo
 ###vue2.0
-38s威威品牌
+38s威威品牌ss
 ###要用VUE重写APP
 
 1. 选项卡的实现： @click/:class
