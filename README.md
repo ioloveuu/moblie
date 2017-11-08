@@ -1,6 +1,6 @@
 # vue demo
 ###vue2.0
-38s啦啦杀杀杀顶顶顶
+38s啦啦杀杀杀顶
 ###要用VUE重写APP
 
 1. 选项卡的实现： @click/:class
