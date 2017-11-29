@@ -1,7 +1,7 @@
 # vue demo
 ###vue2.0
 ###要用VUE重写APP
-顶
+顶灌灌灌灌
 1. 选项卡的实现： @click/:class
 2. 业务和逻辑实现要分开
 ## +  http://www.cnblogs.com/axl234/p/5899137.html 
