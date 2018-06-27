@@ -1,4 +1,4 @@
-# vue demo斤斤计较
+# vue demo
 ###vue2.0
 ###要用VUE重写APP
 顶灌灌灌灌
